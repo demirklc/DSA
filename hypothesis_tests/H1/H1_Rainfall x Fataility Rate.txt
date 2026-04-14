@@ -1,0 +1,66 @@
+================================================================================
+H1: RAINFALL IMPACT ON TRAFFIC ACCIDENT SEVERITY
+================================================================================
+
+
+Student: Doğukan Demirkılıç (28407)
+
+EXECUTIVE SUMMARY:
+--------------------------------------------------------------------------------
+This analysis examines whether rainfall levels affect the fatality rate
+of traffic accidents in Turkey between 2020 and 2024.
+
+The hypothesis tested is:
+Higher rainfall leads to higher fatality rates in traffic accidents.
+
+HYPOTHESIS:
+--------------------------------------------------------------------------------
+H1: Fatal traffic accident rates increase during months with higher rainfall.
+
+METHOD:
+--------------------------------------------------------------------------------
+- Monthly traffic accident data (2020–2024) was combined with
+  monthly precipitation data.
+- Fatality rate was calculated as:
+  
+  Fatality Rate = Fatalities / Total Accidents
+
+- A scatter plot was used to analyze the relationship between
+  rainfall (mm) and fatality rate.
+
+OBSERVATION:
+--------------------------------------------------------------------------------
+- The scatter plot shows a wide distribution of data points.
+- No clear increasing or decreasing trend is observed.
+- Months with high rainfall do not consistently show higher fatality rates.
+
+RESULT:
+--------------------------------------------------------------------------------
+The analysis does NOT support the hypothesis.
+
+There is no strong correlation between rainfall levels and
+traffic accident fatality rates.
+
+
+INTERPRETATION:
+--------------------------------------------------------------------------------
+Rainfall alone does not significantly affect accident severity.
+
+Possible explanations:
+- Drivers may adapt their behavior in rainy conditions
+- Road safety measures may reduce risk during bad weather
+- Other factors (e.g., driver behavior, traffic density) may have
+  a greater impact on fatality rates
+
+================================================================================
+CONCLUSION:
+================================================================================
+
+The results indicate that rainfall is not a strong predictor of
+traffic accident severity in Turkey.
+
+Although weather conditions may influence driving conditions,
+they do not appear to significantly increase fatality rates on their own.
+
+Further analysis with additional variables is recommended
+to better understand the factors affecting accident severity.

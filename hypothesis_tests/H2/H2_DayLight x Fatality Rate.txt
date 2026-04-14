@@ -1,0 +1,69 @@
+================================================================================
+H2: DAYLIGHT CONDITIONS IMPACT ON TRAFFIC ACCIDENT SEVERITY
+================================================================================
+
+
+Student: Doğukan Demirkılıç (28407)
+
+EXECUTIVE SUMMARY:
+--------------------------------------------------------------------------------
+This analysis examines whether the time of day (day vs night)
+affects the fatality rate of traffic accidents in Turkey between
+2020 and 2024.
+
+The hypothesis tested is:
+Traffic accidents occurring at night have higher fatality rates
+than those occurring during the day.
+
+
+HYPOTHESIS:
+--------------------------------------------------------------------------------
+H2: Traffic accidents that occur at night have a higher fatality rate
+compared to those occurring during the day.
+
+METHOD:
+--------------------------------------------------------------------------------
+- Traffic accident data was categorized based on daylight conditions
+  (day and night) for each year between 2020 and 2024.
+
+- Fatality rate was calculated as:
+
+  Fatality Rate = Fatalities / Total Accidents
+
+- The fatality rates for day and night were compared using
+  a bar chart and numerical analysis.
+
+OBSERVATION:
+--------------------------------------------------------------------------------
+- In every year, night-time fatality rates are higher than daytime rates
+- The difference is consistent and significant across all years
+- The pattern remains stable over time
+
+RESULT:
+--------------------------------------------------------------------------------
+The analysis SUPPORTS the hypothesis.
+
+Traffic accidents occurring at night consistently have higher
+fatality rates than those occurring during the day.
+
+INTERPRETATION:
+--------------------------------------------------------------------------------
+This result can be explained by several factors:
+
+- Reduced visibility during night-time driving
+- Increased driver fatigue and decreased alertness
+- Slower reaction times in low-light conditions
+- Potentially higher driving speeds at night due to lower traffic density
+
+================================================================================
+CONCLUSION:
+================================================================================
+
+The findings clearly indicate that time of day is a significant factor
+affecting traffic accident severity in Turkey.
+
+Night-time driving presents a higher risk in terms of fatal outcomes
+compared to daytime driving.
+
+This suggests that safety measures and awareness efforts should
+particularly focus on night-time driving conditions.
